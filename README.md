@@ -1,9 +1,6 @@
 ### Hi there 👋,I'm Peter.
 
 - 🔭 I’m yuntech csie student.
-- 🌱 I’m currently learning Golang for backend , Vue for front and C++ for ds/algo.
-- 📫 How to reach me: hellolinpeter@gmail.com
-- 😄 Read more about my BLOG: [here](https://peterouob.github.io)
 
 -----------------------
 
