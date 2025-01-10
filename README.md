@@ -3,7 +3,7 @@
 - 🔭 I’m yuntech csie student.
 - 📫 How to reach me: hellolinpeter@gmail.com
 - 🧠 I'm interested in use golang implement microservice or web backend
-- 👀 I'm study kubernets right now and try to use C implement Operation System
+- 👀 I'm studing kubernets right now and try to use C implement Operation System
   
 # My Skill
 ## Database
