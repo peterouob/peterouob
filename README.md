@@ -1,15 +1,15 @@
 # Hi there 👋,I'm Peter.
 
-- 🔭 I’m yuntech csie student.
+- 🔭 I’m yuntech CSIE student.
 - 📫 How to reach me: hellolinpeter@gmail.com
-- 🧠 I'm interested in use golang implement microservice or web backend
-- 👀 I'm studing kubernets right now and try to use C implement Operation System
+- 🧠 I'm interested in using golang implement microservice or web backend
+- 👀 I'm studing kubernetes right now and try to use C implement Operation System
   
 # My Skill
 ## Database
 [![My Skills](https://skillicons.dev/icons?i=firebase,mysql,redis,mongo&perline=4)](https://skillicons.dev)
 ## Front
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,javascript,typescript,c&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,javascript,typescript&perline=6)](https://skillicons.dev)
 ## Framework
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,nuxt&perline=6)](https://skillicons.dev)
 ## Backend
