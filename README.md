@@ -32,21 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/goland/goland-original.svg" height="60" alt="goland logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="60" alt="webstorm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" height="60" alt="datagrip logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" height="60" alt="clion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-</div>
-
 ###
 
 <div align="center">
